@@ -13,8 +13,8 @@ namespace Tapshiriq_5
                     for (int j = 1; j <= i; j++)
                     {
                         Console.Write("#");
-                        if (i == j)
-                            Console.Write('\n');
+                        /*if (i == j)
+                            Console.Write('\n');*/
                     }
 
             }
